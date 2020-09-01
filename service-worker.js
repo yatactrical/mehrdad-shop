@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mehrdad-shop/precache-manifest.6cec3ed5df06543bb413fdebeb990e18.js"
+  "/mehrdad-shop/precache-manifest.a5b3a7ce9c9d909beb8d2c0d15d3a603.js"
 );
 
 self.addEventListener('message', (event) => {

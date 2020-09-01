@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mehrdad-shop/static/css/main.3d3872f2.chunk.css",
-    "main.js": "/mehrdad-shop/static/js/main.14cd0435.chunk.js",
-    "main.js.map": "/mehrdad-shop/static/js/main.14cd0435.chunk.js.map",
+    "main.js": "/mehrdad-shop/static/js/main.30082515.chunk.js",
+    "main.js.map": "/mehrdad-shop/static/js/main.30082515.chunk.js.map",
     "runtime-main.js": "/mehrdad-shop/static/js/runtime-main.b0f6fe67.js",
     "runtime-main.js.map": "/mehrdad-shop/static/js/runtime-main.b0f6fe67.js.map",
     "static/js/2.4b8d3738.chunk.js": "/mehrdad-shop/static/js/2.4b8d3738.chunk.js",
     "static/js/2.4b8d3738.chunk.js.map": "/mehrdad-shop/static/js/2.4b8d3738.chunk.js.map",
     "index.html": "/mehrdad-shop/index.html",
-    "precache-manifest.6cec3ed5df06543bb413fdebeb990e18.js": "/mehrdad-shop/precache-manifest.6cec3ed5df06543bb413fdebeb990e18.js",
+    "precache-manifest.a5b3a7ce9c9d909beb8d2c0d15d3a603.js": "/mehrdad-shop/precache-manifest.a5b3a7ce9c9d909beb8d2c0d15d3a603.js",
     "service-worker.js": "/mehrdad-shop/service-worker.js",
     "static/css/main.3d3872f2.chunk.css.map": "/mehrdad-shop/static/css/main.3d3872f2.chunk.css.map",
     "static/js/2.4b8d3738.chunk.js.LICENSE.txt": "/mehrdad-shop/static/js/2.4b8d3738.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b0f6fe67.js",
     "static/js/2.4b8d3738.chunk.js",
     "static/css/main.3d3872f2.chunk.css",
-    "static/js/main.14cd0435.chunk.js"
+    "static/js/main.30082515.chunk.js"
   ]
 }
