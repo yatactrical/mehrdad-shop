@@ -15,19 +15,19 @@ class Banner extends Component {
           <input type="radio" name="r" id="r5"/>
 
           <div className="slide s1">
-            <img src="images/7.jpg" alt="" />
+            <img src="images/1.png" alt="" />
           </div>
           <div className="slide">
-            <img src="images/8.jpg" alt="" />
+            <img src="images/2.png" alt="" />
           </div>
           <div className="slide">
-            <img src="images/9.jpg" alt="" />
+            <img src="images/3.jpg" alt="" />
           </div>
           <div className="slide">
-            <img src="images/10.jpg" alt="" />
+            <img src="images/4.jpg" alt="" />
           </div>
           <div className="slide">
-            <img src="images/11.jpg" alt="" />
+            <img src="images/5.jpg" alt="" />
           </div>
         </div>
 
